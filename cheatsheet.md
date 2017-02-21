@@ -20,4 +20,6 @@
 
 ##### Moving files while preserving git history
 		git mv <source> <destination>
- 
+
+##### Create a branch and move onto it
+		git checkout -b <new branch name>
